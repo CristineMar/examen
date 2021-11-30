@@ -1,0 +1,7 @@
+#no se subiran
+
+*.dat
+
+#excepcion
+
+!definitivo.dat
